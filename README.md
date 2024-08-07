@@ -14,7 +14,7 @@ In addition, the Dual-scale Feature Fusion module(DFF) and Feature Enhanced Atte
 
 
 <div align="center">
-  <img src="figures/framework.png" width="1000" />
+  <img src="figures/framework.png" width="600" />
 </div>
 
 
