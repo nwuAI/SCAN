@@ -24,12 +24,6 @@ In addition, the Dual-scale Feature Fusion module(DFF) and Feature Enhanced Atte
 }
 ```
 
-## Data Preprocessing
-```
-The dataset we provide has already been processed. If you wish to apply our method to your own brain MRI dataset, 
-you can refer to the specific preprocessing steps outlined in ACEnet,https://github.com/ymli39/ACEnet-for-Neuroanatomy-Segmentation.
-```
-
 ## Train
 If you are prompted for no packages, enter pip install * * to install dependent packages
 ```
